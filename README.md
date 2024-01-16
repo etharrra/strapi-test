@@ -62,5 +62,3 @@ Before you begin, ensure you have met the following requirements:
 
 - [Strapi Documentation](https://strapi.io/documentation)
 - [Coding After Thirty](https://www.youtube.com/watch?v=RceLeh9D85o)
-
----
